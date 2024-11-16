@@ -1,7 +1,7 @@
 # EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
-
-## NAME: NITHYA D
-## REG NO : 212223240110
+## Name : NITHYA D
+## Roll no : 212223240110
+## Date of experiment : 07.10.2024
 
 ### Aim :
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
